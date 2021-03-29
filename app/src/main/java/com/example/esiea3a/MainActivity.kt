@@ -19,7 +19,6 @@ class MainActivity : AppCompatActivity() {
                     .setAction("Action", null).show()
         }
 
-        val dailyNews = News(title: "PSG vs OM : une victoire écrasante OMGG !!!")
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
